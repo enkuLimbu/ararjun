@@ -5,7 +5,7 @@ disableKinds = ["taxonomy", "term"]
 
 [params.author]
   name = "Arjun Dhungel"
-  headline = "Hi, This is Arjun Dhungel. A musician cum vlogger cum developer."
+  headline = "Hello! I'm an IT student deeply immersed in the world of social networks, particularly YouTube, and networking. Beyond my technical expertise, I'm fueled by a passion for singing and vlogging. Through my personal portfolio website, I showcase a fusion of my skills, offering a glimpse into my diverse abilities—from crafting captivating content to leveraging technology for impactful storytelling"
   image = "arjun.jpeg"
   links = [
     { link = { href = "/arjunCv.pdf", text = "Download my CV >>", icon = "" } },
