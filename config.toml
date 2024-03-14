@@ -1,0 +1,22 @@
+title = "Arjun Dhungel"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[params.author]
+  name = "Arjun Dhungel"
+  headline = "Hi, This is Arjun Dhungel. A musician cum vlogger cum developer."
+  image = "arjun.jpeg"
+  links = [
+    { link = { href = "/arjunCv.pdf", text = "Download my CV >>", icon = "" } },
+    { github = "https://github.com/" },
+    { youtube = "https://youtube.com/" },
+    { link = { href = "styles/", text = "Contact me", target = "_self" } },
+  ]
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
