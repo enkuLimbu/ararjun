@@ -7,8 +7,6 @@ These are all the services I use. You can contact me in any of these sites. Plea
 
 </section>
 <section class="flex flex-col flex-wrap min-w-full mt-4 sm:min-w-0">
-{{< link email "mailto:aaarjun6654@gmail.com">}}
-{{< link link "https://arjundhungel.com.np/">}}
 {{< link facebook >}}
 {{< link instagram >}}
 {{< link linkedin >}}

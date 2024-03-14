@@ -9,6 +9,7 @@ disableKinds = ["taxonomy", "term"]
   image = "arjun.jpeg"
   links = [
     { link = { href = "/arjunCv.pdf", text = "Download my CV >>", icon = "" } },
+    { email = "mailto:aaarjun6654@gmail.com" },
     { github = "https://github.com/" },
     { youtube = "https://youtube.com/" },
     { link = { href = "styles/", text = "Contact me", target = "_self" } },
