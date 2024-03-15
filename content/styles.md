@@ -14,7 +14,6 @@ These are all the services I use. You can contact me in any of these sites. Plea
 {{< link snapchat >}}
 {{< link whatsapp >}}
 {{< link microsoft >}}
-{{< link x >}}
 {{< link twitter >}}
 {{< link telegram >}}
 {{< link tiktok >}}
