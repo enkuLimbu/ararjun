@@ -7,12 +7,12 @@ These are all the services I use. You can contact me in any of these sites. Plea
 
 </section>
 <section class="flex flex-col flex-wrap min-w-full mt-4 sm:min-w-0">
-{{< link github >}}
+{{< link github "" >}}
 {{< link facebook >}}
 {{< link instagram >}}
 {{< link linkedin >}}
 {{< link snapchat >}}
-{{< link whatsapp >}}
+{{< link whatsapp "+9779815025097">}}
 {{< link microsoft >}}
 {{< link twitter >}}
 {{< link telegram >}}

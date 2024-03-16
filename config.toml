@@ -10,7 +10,7 @@ disableKinds = ["taxonomy", "term"]
   links = [
     { link = { href = "/arjunCv.pdf", text = "Download my CV >>", icon = "" } },
     { email = "mailto:aaarjun6654@gmail.com"},
-    { youtube = "https://youtube.com/" },
+    { youtube = "https://www.youtube.com/@ararjunofficial4523" },
     { link = { href = "styles/", text = "Reach me", target = "_self" } },
   ]
 
